@@ -34,7 +34,7 @@ global.btnurl = 'https://youtube.com/channel/UCp0cfYXDnAqyqZsjNn8_xow' //Change 
 
 global.region = ' Sri Lanka' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
+global.packname = '☬RED༒MALIYA࿐' //Bot Pacage Name
 global.author = '😎🅼🅰🅻🅸🅽🅳🆄❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
